@@ -1,0 +1,82 @@
+[
+  {
+    "module_code": "ops2_3",
+    "module_label": "OPS 2.3 - Approval Routing Configuration",
+    "module_title": "Approval Routing Configuration",
+    "module_slug": "approval_routing_configuration",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_8",
+    "module_label": "OPS 2.8 - Automation Monitoring",
+    "module_title": "Automation Monitoring",
+    "module_slug": "automation_monitoring",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_4",
+    "module_label": "OPS 2.4 - Escalation Rule Setup",
+    "module_title": "Escalation Rule Setup",
+    "module_slug": "escalation_rule_setup",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_7",
+    "module_label": "OPS 2.7 - Exception Handling Logic",
+    "module_title": "Exception Handling Logic",
+    "module_slug": "exception_handling_logic",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_5",
+    "module_label": "OPS 2.5 - Notification Configuration",
+    "module_title": "Notification Configuration",
+    "module_slug": "notification_configuration",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_6",
+    "module_label": "OPS 2.6 - System Integration Mapping",
+    "module_title": "System Integration Mapping",
+    "module_slug": "system_integration_mapping",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_2",
+    "module_label": "OPS 2.2 - Trigger Setup",
+    "module_title": "Trigger Setup",
+    "module_slug": "trigger_setup",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops2_1",
+    "module_label": "OPS 2.1 - Workflow Configuration",
+    "module_title": "Workflow Configuration",
+    "module_slug": "workflow_configuration",
+    "app_code": "ops2",
+    "app_label": "OPS 2 - Workflow Automation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
